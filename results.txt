@@ -1,0 +1,48 @@
+c4singhn 
+0,1,6603,/u/csc209h/fall/pub/bin/checkstep1 ,Step 1 successfully completed.
+0,2,6603,/u/csc209h/fall/pub/bin/checkstep2 ,Step 2 successfully completed.
+0,3,6603,checkstep3 ,Step 3 successfully completed.
+0,3,6603,checkstep3 ,Step 3 successfully completed.
+0,3,6603,checkstep3 ,Step 3 successfully completed.
+0,3,6603,checkstep3 ,Step 3 successfully completed.
+0,3,6603,checkstep3 ,Step 3 successfully completed.
+0,3,6603,checkstep3 ,Step 3 successfully completed.
+0,3,6603,checkstep3 ,Step 3 successfully completed.
+0,3,6603,checkstep3 ,Step 3 successfully completed.
+0,3,6603,checkstep3 ,Step 3 successfully completed.
+0,3,6603,checkstep3 ,Step 3 successfully completed.
+0,3,6603,checkstep3 ,Step 3 successfully completed.
+0,3,6603,checkstep3 ,Step 3 successfully completed.
+0,3,6603,checkstep3 ,Step 3 successfully completed.
+1,5,6603,checkstep5 ,COLOUR does not exist
+1,5,6603,checkstep5 ,COLOUR does not exist
+0,5,6603,checkstep5 ,Step 5 successfully completed.
+0,3,6603,checkstep3 ,Step 3 successfully completed.
+0,3,6603,checkstep3 ,Step 3 successfully completed.
+1,5,6603,checkstep5 ,COLOUR does not exist
+0,5,6603,checkstep5 ,Step 5 successfully completed.
+0,3,6603,checkstep3 ,Step 3 successfully completed.
+0,3,6603,checkstep3 ,Step 3 successfully completed.
+1,5,6603,checkstep5 ,COLOUR does not exist
+1,5,6603,checkstep5 ,COLOUR does not exist
+1,5,6603,checkstep5 ,COLOUR does not exist
+0,5,6603,checkstep5 ,Step 5 successfully completed.
+1,6,6603,checkstep6 ,There is a file that doesn't belong
+1,6,6603,checkstep6 ,adir does not have correct permissions
+0,3,6603,checkstep3 ,Step 3 successfully completed.
+0,5,6603,checkstep5 ,Step 5 successfully completed.
+0,6,6603,checkstep6 ,Step 6 successfully completed.
+0,3,6603,checkstep3 ,Step 3 successfully completed.
+0,5,6603,checkstep5 ,Step 5 successfully completed.
+1,6,6603,checkstep6 ,There is a file that doesn't belong
+1,71,6603,checkstep71 -p 50199 ,The process is not stopped
+0,7,6603,checkstep7 -p 50199 ,Step 7 successfully completed.
+1,71,6603,checkstep71 -p 50791 ,The process does not exist
+1,71,6603,checkstep71 -p 50839 ,The process does not exist
+1,71,6603,checkstep71 -p 50953 ,The process does not exist
+0,71,6603,checkstep71 -p 50843 ,Step 7.1 successfully completed.
+1,72,6603,checkstep72 ,There still seem to be some longproc processes running.
+0,72,6603,checkstep72 ,Step 7.2 successfully completed.
+1,8,6603,checkstep8 -n 0 ,Number of processes did not match.
+1,8,6603,checkstep8 -n 237 ,Number of processes did not match.
+0,8,6603,checkstep8 -n 236 ,Step 8 successfully completed.
